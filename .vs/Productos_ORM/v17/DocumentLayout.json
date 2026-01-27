@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|c:\\users\\dargudo\\source\\repos\\productos_orm\\productos_orm\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|solutionrelative:productos_orm\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|c:\\users\\dargudo\\source\\repos\\productos_orm\\productos_orm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|solutionrelative:productos_orm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|c:\\users\\dargudo\\source\\repos\\productos_orm\\productos_orm\\migrations\\20260127224006_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|solutionrelative:productos_orm\\migrations\\20260127224006_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|c:\\users\\dargudo\\source\\repos\\productos_orm\\productos_orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|solutionrelative:productos_orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|c:\\users\\dargudo\\source\\repos\\productos_orm\\productos_orm\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|solutionrelative:productos_orm\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|c:\\users\\dargudo\\source\\repos\\productos_orm\\productos_orm\\productos_orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|solutionrelative:productos_orm\\productos_orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|c:\\users\\dargudo\\source\\repos\\productos_orm\\productos_orm\\models\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|solutionrelative:productos_orm\\models\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|c:\\users\\dargudo\\source\\repos\\productos_orm\\productos_orm\\productos_orm.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9255F8E6-525C-47CB-BD71-B18BF854BF96}|Productos_ORM\\Productos_ORM.csproj|solutionrelative:productos_orm\\productos_orm.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Productos_ORM\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Productos_ORM\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T22:49:25.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260127224006_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Migrations\\20260127224006_initial migration.cs",
+              "RelativeDocumentMoniker": "Productos_ORM\\Migrations\\20260127224006_initial migration.cs",
+              "ToolTip": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Migrations\\20260127224006_initial migration.cs",
+              "RelativeToolTip": "Productos_ORM\\Migrations\\20260127224006_initial migration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T22:40:06.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Program.cs",
+              "RelativeDocumentMoniker": "Productos_ORM\\Program.cs",
+              "ToolTip": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Program.cs",
+              "RelativeToolTip": "Productos_ORM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T22:30:47.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Productos_ORM\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Productos_ORM\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T22:19:20.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Models\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Productos_ORM\\Models\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Models\\Entities\\Producto.cs",
+              "RelativeToolTip": "Productos_ORM\\Models\\Entities\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T22:11:59.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\appsettings.json",
+              "RelativeDocumentMoniker": "Productos_ORM\\appsettings.json",
+              "ToolTip": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\appsettings.json",
+              "RelativeToolTip": "Productos_ORM\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T21:56:39.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Productos_ORM.http",
+              "DocumentMoniker": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Productos_ORM.http",
+              "RelativeDocumentMoniker": "Productos_ORM\\Productos_ORM.http",
+              "ToolTip": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Productos_ORM.http",
+              "RelativeToolTip": "Productos_ORM\\Productos_ORM.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-27T22:01:04.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Productos_ORM",
+              "DocumentMoniker": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Productos_ORM.csproj",
+              "RelativeDocumentMoniker": "Productos_ORM\\Productos_ORM.csproj",
+              "ToolTip": "C:\\Users\\dargudo\\source\\repos\\Productos_ORM\\Productos_ORM\\Productos_ORM.csproj",
+              "RelativeToolTip": "Productos_ORM\\Productos_ORM.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T21:55:22.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
